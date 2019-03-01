@@ -8,3 +8,6 @@ This is a code for autonomous navigation using move_base for my mecanum wheel ro
 
 video:
 https://www.youtube.com/channel/UCgEETDZfbyr0_9rYclqnPsw
+
+
+对应网址：https://www.robotshop.com/community/robots/show/autonomous-navigation-mecanum-wheel-robot
